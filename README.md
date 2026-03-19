@@ -1,14 +1,10 @@
 <div align="center">
 
-# Hey there, I'm [Your Name] 👋
+# Hey there 👋
 
 **Flutter Developer · Web Developer · Competitive Programmer**
 
 *Building polished mobile experiences and clean web interfaces — one commit at a time.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -19,17 +15,6 @@
 I'm a passionate developer with **2 years of Flutter development** and **3 years of web development** experience. I love crafting seamless, user-centric applications — whether it's a cross-platform mobile app or a responsive web interface.
 
 Beyond coding, I've sharpened my skills through **competitive programming**, where problem-solving under pressure has become second nature. I'm a Linux enthusiast with a year of hands-on experience and a strong command of the terminal.
-
-```
-const me = {
-  mobile:  "Flutter (2 yrs)",
-  web:     "HTML · CSS · JavaScript (3 yrs)",
-  traits:  ["Problem solver", "Detail-oriented", "Fast learner"],
-  os:      "Linux  (daily driver)",
-  currentFocus: "Building great user experiences"
-};
-```
-
 ---
 
 ## Tech Stack
