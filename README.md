@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name] 👋
+### Hi There 👋
 
 Flutter & web developer with a thing for clean code, competitive programming, and the terminal.
 
@@ -23,6 +23,3 @@ Flutter & web developer with a thing for clean code, competitive programming, an
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarvelFanBoy11&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvelFanBoy11&layout=compact&theme=default&hide_border=true)
