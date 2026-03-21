@@ -18,7 +18,7 @@ Strong foundations in teamwork, leadership, and competing under pressure — wit
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=OmarHammadT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=OmarHammadT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarHammadT&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHammadT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
